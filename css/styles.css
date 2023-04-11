@@ -140,7 +140,7 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #161d2a;
-  margin-bottom: 8px;
+  margin-bottom: 10px;
 }
 .contacts-type {
   font-style: normal;
@@ -150,8 +150,16 @@ body {
   color: #161d2a;
   margin-right: 8px;
 }
+.contacts-github-icon {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
 .contacts-item {
   margin: 0;
+  padding: 0;
 }
 .contacts-number {
   font-style: normal;
@@ -160,7 +168,8 @@ body {
   line-height: 24px;
   color: #161d2a;
 }
-.contacts-email {
+.contacts-email,
+.contacts-github {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
