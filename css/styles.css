@@ -55,6 +55,7 @@ body {
   margin-bottom: 48px;
 }
 .project-list {
+  list-style: none;
   padding: 0 0 0 16px;
   margin: 0;
 }
@@ -126,9 +127,7 @@ body {
 .my-photo {
   width: 348px;
 }
-.contacts-container,
-.tech-skills-container,
-.soft-skills-container {
+.container {
   margin: 48px 0 0 40px;
 }
 .sidebar-title {
@@ -166,7 +165,9 @@ body {
   color: #161d2a;
 }
 .contacts-email,
-.contacts-github {
+.contacts-github,
+.contacts-linkedin,
+.contacts-telegram {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
