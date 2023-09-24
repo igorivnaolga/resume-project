@@ -1,7 +1,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background-color: #e5e5e5;
-  padding: 54px 40px 24px 40px;
+  padding: 24px 40px 24px 40px;
 }
 
 .wrapper {
@@ -14,7 +14,7 @@ body {
 }
 
 .main-content {
-  padding: 80px 64px;
+  padding: 24px 32px;
 }
 .main-content-title {
   font-style: normal;
@@ -22,13 +22,13 @@ body {
   font-size: 22px;
   line-height: 27px;
   color: #000000;
-  margin: 0 0 8px 0;
+  margin: 0 0 20px 0px;
 }
 .my-name {
   font-style: normal;
   font-weight: 700;
-  font-size: 45px;
-  line-height: 55px;
+  font-size: 36px;
+  line-height: 40px;
   color: #000000;
   margin: 0 0 28px 0;
 }
@@ -49,10 +49,10 @@ body {
   width: 525px;
 }
 .about-me-container {
-  margin-bottom: 72px;
+  margin-bottom: 24px;
 }
 .project-container {
-  margin-bottom: 48px;
+  margin-bottom: 24px;
 }
 .project-list {
   list-style: none;
@@ -85,10 +85,10 @@ body {
 }
 
 .work-expirience-container {
-  margin-bottom: 44px;
+  margin-bottom: 24px;
 }
 .work-expirience-place {
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 }
 .work-expirience-position {
   font-style: normal;
