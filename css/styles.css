@@ -19,40 +19,40 @@ body {
 .main-content-title {
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
-  line-height: 27px;
+  font-size: 28px;
+  line-height: 1.3;
   color: #000000;
-  margin: 0 0 20px 0px;
+  margin: 0 0 15px 0px;
 }
 .my-name {
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
-  line-height: 40px;
+  line-height: 1.3;
   color: #000000;
-  margin: 0 0 28px 0;
+  margin: 0 0 18px 0;
 }
 .my-profession {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
-  line-height: 17px;
+  font-size: 18px;
+  line-height: 1.4;
   color: #000000;
   margin: 0 0 18px 0;
 }
-.my-describtion {
+.my-description {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.4;
   color: #595959;
   width: 525px;
 }
 .about-me-container {
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 .project-container {
-  margin-bottom: 24px;
+  margin-bottom: 18px;
 }
 .project-list {
   list-style: none;
@@ -63,22 +63,22 @@ body {
 .project-item {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 1.4;
   color: #000000;
 }
 .project-item-description {
   font-style: normal;
   font-weight: 400;
   font-size: 14px;
-  line-height: 24px;
+  line-height: 1.4;
   color: #595959;
 }
 .project-item-link {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 1.4;
   text-decoration-line: underline;
 
   color: #005fff;
@@ -94,7 +94,7 @@ body {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
-  line-height: 20px;
+  line-height: 1.4;
   color: #000000;
   margin: 0;
 }
@@ -141,7 +141,7 @@ body {
 .contacts-type {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #161d2a;
   margin-right: 8px;
@@ -149,7 +149,7 @@ body {
 .contacts-github-icon {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #161d2a;
 }
@@ -160,7 +160,7 @@ body {
 .contacts-number {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #161d2a;
 }
@@ -170,7 +170,7 @@ body {
 .contacts-telegram {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #2979ff;
 }
@@ -181,7 +181,7 @@ body {
 .skills-list-item {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 24px;
   color: #161d2a;
 }
