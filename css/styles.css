@@ -45,7 +45,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.4;
-  color: #595959;
+  color: #000000;
   width: 525px;
 }
 .about-me-container {
@@ -72,7 +72,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.4;
-  color: #595959;
+  color: #000000;
 }
 .project-item-link {
   font-style: normal;
@@ -84,13 +84,13 @@ body {
   color: #005fff;
 }
 
-.work-expirience-container {
+.work-experience-container {
   margin-bottom: 24px;
 }
-.work-expirience-place {
+.work-experience-place {
   margin-bottom: 20px;
 }
-.work-expirience-position {
+.work-experience-position {
   font-style: normal;
   font-weight: 700;
   font-size: 16px;
@@ -98,7 +98,7 @@ body {
   color: #000000;
   margin: 0;
 }
-.work-expirience-company {
+.work-experience-company {
   color: #6d9bf5;
 }
 .work-period {
@@ -106,7 +106,7 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #000000;
   margin: 12px 0 8px 0;
 }
 .work-duties-list {
@@ -118,7 +118,7 @@ body {
   font-weight: 400;
   font-size: 14px;
   line-height: 24px;
-  color: #595959;
+  color: #000000;
 }
 .sidebar {
   width: 348px;
@@ -204,5 +204,5 @@ body {
   font-weight: 400;
   font-size: 12px;
   line-height: 15px;
-  color: #a8a8a8;
+  color: #000000;
 }
